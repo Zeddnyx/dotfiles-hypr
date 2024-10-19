@@ -1,0 +1,15 @@
+term=kitty
+location=center
+width=20%
+lines=5
+
+search=brave
+prompt=Search
+show=drun
+insensitive=true
+allow_images=true
+hide_scroll=true
+
+
+aways_parse_args=false
+show_all=false
